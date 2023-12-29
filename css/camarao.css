@@ -1,0 +1,16 @@
+h1,h2{
+    color: #A23131;
+    font-family: 'Mea Culpa', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+.text_inicio{
+    font-size: 25px;
+}
+p, li{
+    font-family: 'Pacifico', sans-serif;
+}
+img{
+    width: 346px; 
+    height: 280px;
+}

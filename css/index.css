@@ -1,6 +1,14 @@
 body{
     background-color: #E8ECD6;
 }
+h1,h3{
+    color: #A23131;
+
+}
+a{
+    text-decoration: none;
+}
+
 table{
     margin-left: 10%;
     padding-right: 50px;

@@ -1,0 +1,20 @@
+body{
+    background-color: #E8ECD6;
+}
+table{
+    margin-left: 10%;
+    padding-right: 50px;
+}
+header{
+    text-align: center;
+}
+img{
+    width: 346px;
+    height: 280px;
+}
+a{
+    text-align: center;
+}
+.principal_tr{
+    margin: 30px;
+}

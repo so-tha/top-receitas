@@ -1,5 +1,7 @@
 body{
     background-color: #E8ECD6;
+    font-family: 'Mea Culpa', sans-serif;
+    font-size: 30px;
 }
 h1,h3{
     color: #A23131;
@@ -22,6 +24,9 @@ img{
 }
 a{
     text-align: center;
+}
+section{
+    margin-right: 20px;
 }
 .principal_tr{
     margin: 30px;

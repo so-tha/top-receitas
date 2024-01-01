@@ -1,0 +1,40 @@
+body{
+    background-color: #E8ECD6;
+}
+h1,h2{
+    color: #A23131;
+    font-family: 'Mea Culpa', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    padding: 10px;
+}
+.text_inicio{
+    font-size: 25px;
+}
+p, li{
+    font-family: 'Pacifico', sans-serif;
+}
+img{
+    width: 400px; 
+    height: 300px;
+    margin-top: 30px;
+    margin-right: 30px;
+    border-style: groove;
+    border-color: #A23131;
+}
+#borda1{
+    border-style: none;
+    width: 700px;
+    padding: 60px;
+    margin-left: 250px ;
+    margin-top: 5%;
+    display: flex;
+}
+.borda2{
+    border: black;
+    border-style: double;
+    width: 700px;
+    padding: 50px;
+    margin-left: 250px ;
+    margin-top: 5%;
+}

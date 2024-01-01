@@ -14,3 +14,7 @@ img{
     width: 346px; 
     height: 280px;
 }
+#borda , .borda2{
+    border: black;
+    border-style: double;
+}
